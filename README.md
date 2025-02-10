@@ -2,4 +2,4 @@
 
 ### Membuat aplikasi absensi dengan fitur face id menggunakan laravel
 
-Day 1 : Membuat repository dan mempelajari laravel
+Day 1 : Membuat repository, instalasi laravel, dan mempelajari laravel
